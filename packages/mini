@@ -1,0 +1,17 @@
+
+desc = """
+Base desktop environment.
+"""
+
+deps = """
+mini-xserver
+mini-utils
+mini-utils-x
+mini-xfce
+"""
+packages = """
+"""
+freebsd_deps="""
+xfce
+common
+"""
